@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "ccv1:block/oven" },
+    "facing=south": { "model": "ccv1:block/oven", "y":  180},
+    "facing=west": { "model": "ccv1:block/oven", "y":  270},
+    "facing=east": { "model": "ccv1:block/oven", "y":  90}
+  }
+}
